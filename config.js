@@ -11,14 +11,8 @@ import moment from 'moment-timezone'
 //⊱ ━━━━.⋅ Añada los numeros a ser Propietario/a ⋅.━━━ ⊰  
 
 global.owner = [
-  ['5218261000681', 'おDaniel', true],
-  ['59894566878'],
-  ['5218261275256'], 
-  ['5218139760662'],
-  ['51914297121'],
-  ['4794069908'],  
-  ['5218132588591'],
-  ['5218261956657']
+  ['6281251051640', 'ᴢᴀʟʟ sᴛᴏʀᴇ', true],
+  ['6285731706147', 'ᴢᴀʟʟ', true]
 ]
 
 //━━━━━━━━━━━ ฅ^•ﻌ•^ฅ ━━━━━━━━━━━
@@ -28,12 +22,12 @@ global.prems = []
    
 //━━━━━━━━━━━ ฅ^•ﻌ•^ฅ ━━━━━━━━━━━
 
-global.packname = 'ItsukiBot - MD'
-global.author = 'By おDaniel'
-global.linkgc = 'https://chat.whatsapp.com/GPzrXtKmgQz5B2UjxspMPO'
-global.wait = '*↻ Espera soy lenta. . .*'
-global.botname = 'ItsukiBot | OFC'
-global.vs = 'ItsukiBot - MD'
+global.packname = 'ᴢ ᴀ ʟ ʟ - ʙ ᴏ ᴛ'
+global.author = 'ʙʏ ᴢᴀʟʟ sᴛᴏʀᴇ'
+global.linkgc = 'https://chat.whatsapp.com/Bmb4I127aL7JNS3YS0VnKb'
+global.wait = '_ᴡᴀɪᴛ..._*\n*▰▰▰▰▰▰▰▰▱▱ 80%*'
+global.botname = 'ᴢ ᴀ ʟ ʟ - ʙ ᴏ ᴛ'
+global.vs = 'ᴢ ᴀ ʟ ʟ - ʙ ᴏ ᴛ'
 
 //━━━━━━━━━━━ ฅ^•ﻌ•^ฅ ━━━━━━━━━━━
 
